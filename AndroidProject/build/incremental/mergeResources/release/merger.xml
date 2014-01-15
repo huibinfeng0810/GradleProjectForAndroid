@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="GradleProjectForAndroidAndroidLibProjectUnspecified.aar" >
+        <source path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/build/exploded-bundles/GradleProjectForAndroidAndroidLibProjectUnspecified.aar/res" >
+            <file
+                name="ic_launcher"
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/build/exploded-bundles/GradleProjectForAndroidAndroidLibProjectUnspecified.aar/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/build/exploded-bundles/GradleProjectForAndroidAndroidLibProjectUnspecified.aar/res/values/values.xml"
+                qualifiers="" >
+                <string name="app_name" >ACTIVITY_ENTRY_NAME
+                </string>
+            </file>
+            <file
+                name="main"
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/build/exploded-bundles/GradleProjectForAndroidAndroidLibProjectUnspecified.aar/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_launcher"
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/build/exploded-bundles/GradleProjectForAndroidAndroidLibProjectUnspecified.aar/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/build/exploded-bundles/GradleProjectForAndroidAndroidLibProjectUnspecified.aar/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/build/exploded-bundles/GradleProjectForAndroidAndroidLibProjectUnspecified.aar/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/res" >
+            <file
+                name="ic_launcher"
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >AndroidProject
+                </string>
+            </file>
+            <file
+                name="main"
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_launcher"
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+        </source>
+        <source path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/build/res/rs/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/src/release/res" />
+    </dataSet>
+
+</merger>

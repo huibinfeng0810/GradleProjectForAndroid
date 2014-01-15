@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="GradleProjectForAndroidAndroidLibProjectUnspecified.aar" >
+        <source path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/build/exploded-bundles/GradleProjectForAndroidAndroidLibProjectUnspecified.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/huibin/android/project/GradleProjectForAndroid/AndroidProject/src/debug/assets" />
+    </dataSet>
+
+</merger>
